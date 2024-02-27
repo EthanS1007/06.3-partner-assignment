@@ -4,13 +4,15 @@ body {
   }
   
   h1 {
-    color: blue;
+    background-color: aqua;
     text-align: center;
   }
   
   p {
     font-size: 18px;
     line-height: 1.5;
+    color:coral;
+    font-weight:bold;
   }
   
   .highlight {
