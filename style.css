@@ -1,11 +1,16 @@
 body {
     font-family: Arial, sans-serif;
     margin: 20px;
+    /* background: rgb(183, 30, 30); */
+
   }
   
   h1 {
-    background-color: aqua;
+   
     text-align: center;
+    background: linear-gradient(to right, #f32170, #ff6b08,#a63bca, #eedd44);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
   }
   
   p {
